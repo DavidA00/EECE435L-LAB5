@@ -112,3 +112,12 @@ def delete_user(user_id):
     return message
 
 
+
+insert_user({
+    "name": "David Abboud",
+    "email": "dwa13@mail.aub.edu",
+    "phone": "000000000",
+    "address": "Bliss Street",
+    "country": "Lebanon"
+}
+)
